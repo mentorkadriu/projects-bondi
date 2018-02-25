@@ -1,0 +1,20 @@
+.m-number {
+  text-align: center;
+  margin-top: em(70px);
+  &__icon {
+    font-size: em(70px);
+    color: $cygan;
+    margin-bottom: rem(20px);
+  }
+  &__title {
+    color: $yellow;
+    font-size: em(20px);
+    font-weight: 500;
+  }
+  &__desc {
+    color: #a8b9c0;
+    font-size: em(15px);
+    font-weight: 400;
+    line-height: em(30px);
+  }
+}

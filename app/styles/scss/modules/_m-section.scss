@@ -1,0 +1,13 @@
+.m-section {
+    padding-top: em(25px);
+    padding-bottom: em(25px);
+  @media (min-width: $screen-md) {
+    padding-top: em(55px);
+    padding-bottom: em(55px);
+  }
+  &--darker {
+    background-color: $grey;
+  }
+}
+
+

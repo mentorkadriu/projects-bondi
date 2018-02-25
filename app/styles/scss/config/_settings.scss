@@ -1,1 +1,19 @@
 // Add your settings here
+$browser-context: 16px;
+
+// Fonts
+$fonts: 'Roboto', sans-serif;
+
+
+//Colors
+
+$grey: #eff7fa;
+$yellow: #ffc400;
+$cygan: #00c6bf;
+
+
+// Media Queries
+$screen-xs:                  480px !default;
+$screen-sm:                  768px !default;
+$screen-md:                  992px !default;
+$screen-lg:                  1200px !default;

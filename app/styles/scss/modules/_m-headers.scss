@@ -1,0 +1,25 @@
+
+.m-headers {
+  &__icon {
+   color: $yellow;
+   font-size: em(60px);
+   margin-bottom: rem(20px);
+  }
+  &__header {
+    color: #1a2940;
+font-size: em(35px);
+font-weight: 500;
+  }
+  &__sub-header {
+    text-transform: uppercase;
+    color: #a8b9c0;
+font-size: 15px;
+font-weight: 400;
+  }
+  &__line {
+    width: 150px;
+    height: 1px;
+    border-bottom: 1px solid $cygan;
+    display: inline-block;
+  }
+}

@@ -27,7 +27,7 @@ gulp.task('browserSync', function() {
         options: {
             reloadDelay: 250
         },
-        notify: false
+        notify: true
     });
 });
 
